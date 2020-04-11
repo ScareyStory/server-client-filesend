@@ -5,7 +5,7 @@
 ##                It utilizes the socket API to communicate to a peer via TCP.
 ##                The program assumes the user has access to OSU's flip3
 ## Course name:   CS 372
-## Last Modified: 03/11/2020
+## Last Modified: 04/11/2020
 ################################################################################
 
 import sys
