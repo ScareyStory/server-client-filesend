@@ -1,7 +1,7 @@
 /*******************************************************************************
 ** Program Name: ftserver.c
 ** Author:       Story Caplain
-** Last Updated: 03/02/20
+** Last Updated: 04/11/20
 ** Description:  This program will act as a server for a file transfer program.
 **               A client can request a file or a directory description
 *******************************************************************************/
