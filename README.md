@@ -11,8 +11,6 @@ gcc -o ftserver ftserver.c
 
 Then run the server with port number as argument:
 
-ftserver <portnumber>
-
 example: ftserver 50001
 
 
