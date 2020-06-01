@@ -1,6 +1,6 @@
 # server-client-filesend
 
-This program allows a client to request a file or a directory reading from a server
+##This program allows a client to request a file or a directory reading from a server
 
 It works best if the client and server are ran from separate folders, and even different hosts, so that the data actually gets to travel.
 
@@ -27,7 +27,7 @@ Next run the client with the following arguments:
 python3 ftclient.py serverhost serverport command dataport
 
 
-EXAMPLES:
+##EXAMPLES:
 
 To request a directory reading:
 python3 ftclient.py localhost 50001 -g 50000
